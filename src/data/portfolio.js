@@ -1,6 +1,6 @@
 export const profile = {
   name: "Rafiul Islam",
-  role: "Fresher Full Stack Web Developer",
+  role: "Full Stack Web Developer",
   phone: "01767184101",
   location: "Bangladesh",
   photo: "/images/rafiul-profile.png",

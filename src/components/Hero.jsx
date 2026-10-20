@@ -20,7 +20,7 @@ export default function Hero() {
       <div>
         <div className="mb-7 inline-flex items-center gap-2 rounded-full border border-accent/20 bg-accent/[0.06] px-4 py-2 text-xs text-accent">
           <span className="h-2 w-2 rounded-full bg-accent" />
-          FRESHER FULL STACK WEB DEVELOPER
+         FULL STACK WEB DEVELOPER
         </div>
 
         <p className="mb-4 text-sm text-zinc-400">
